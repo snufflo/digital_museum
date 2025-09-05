@@ -1,6 +1,7 @@
 Description
 ===========
-digital_museum is an app that shows you a random art piece from the Metropolitan Mueseum of Arts
+digital_museum is an app that shows you a random art piece from the Metropolitan Mueseum of Arts.
+
 It uses [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/) to request a random art piece and parses the description of the requested art piece to display them.
 
 Usage
